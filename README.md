@@ -1,5 +1,5 @@
 <h1 align="center"><a><img src="https://raw.githubusercontent.com/karmathecoder/karmathecoder/main/source/intro_type.gif" alt="karmathecoder"/></a>
-<h1 align="center"> Namaste <img src='https://media.tenor.com/images/f83458652289855ac77a3270eb51ab9e/tenor.gif' width='50' height='50'> , I'm <em>Harsh</em> 👋 ! </h1>
+<h1 align="center"> Namaste <img src='https://media.tenor.com/images/f83458652289855ac77a3270eb51ab9e/tenor.gif' width='50' height='50'> , I'm <em>Chandan</em> 👋 ! </h1>
 <h3 align="center">Exploring the Computers Fundamental 
 Exploring,Exploring, Exploring....<img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="40" height="40"/></h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karmathecoder&label=Profile%20views&color=ff0000&style=flat" alt="karmathecoder" />&nbsp;&nbsp;<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="50px" height = "50">
